@@ -2,9 +2,12 @@
 Data Visualisation
 
 ## How my project works
+
+   ### Live Connection
+        So for my live connection I imported my data from the web by opening the dataset using my desktop excel application. And copying the path then connect. 
   
    ### High-Level Metrics
-        In these page I decided to show the number of devices installed per year whereby the counted number for each year is shown on the card that is that is on the top right. To see which year a certain device was installed you can filter using the spice card next to the graph.
+        In these page I decided to show the number of devices installed per year whereby the counted number for each year is shown on the card that is that is on the top right. To see which year a certain device was installed you can filter using the spice card next to the graph. I added another slicer which alternates/filters the data using date installed 
 
    ### Device Monitoring
        In these page I used two graphs, one to show the number of devices in a each category of which the exact number will be showed in the count card at the top right and another to show the number of devices in a each zone of which the exact number will also be shown on the count card at the bottom right. The status card will show you whether that device is active or not as you navigate through the different zones and categories. If use the splices next to each graph to see a device in each category or zone the splices will also automatically show you which zone and category does the device belong to.
